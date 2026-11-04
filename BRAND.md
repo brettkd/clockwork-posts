@@ -43,4 +43,4 @@ any content file.
 1. `python3 tools/render.py content/YYYY-MM.json --only <id>` → `posts/<id>.png` (carousels: `-01.png`…)
 2. Commit + push to `main`.
 3. Image URL: `https://raw.githubusercontent.com/brettkd/clockwork-posts/main/posts/<file>`
-4. Schedule in Metricool (brand id 7881300, timezone America/New_York), Instagram POST, autoPublish true, at 7:00 PM ET unless the best-time data says otherwise.
+4. Schedule in Metricool (brand id 7881300, timezone America/New_York), Instagram POST, autoPublish true, at 10:00 AM ET (Metricool best-time peak).
