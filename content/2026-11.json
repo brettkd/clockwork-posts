@@ -2,21 +2,36 @@
   {
     "id": "2026-11-05-mindset",
     "date": "2026-11-05",
-    "type": "quote",
+    "type": "carousel",
     "pillar": "Mindset",
-    "text": "Motivation clocks out.\n[[Discipline]] doesn't.",
-    "alt": "Black card with white text: Motivation clocks out. Discipline doesn't. The word Discipline is in brass.",
-    "caption": "Motivation shows up when it feels like it.\nDiscipline shows up on schedule.\n\nYou don't need to feel ready. You need a time, a place, and the first rep.\n\nRun like clockwork.\n\n#clockworklifestyle #discipline #selfimprovement #consistency"
+    "slides": [
+      {"kind": "quote", "text": "Motivation clocks out.\n[[Discipline]] doesn't."},
+      {"kind": "note", "kicker": "Why it works", "title": "Feelings are a bad schedule.", "body": "Motivation comes and goes. A fixed time, a fixed place and a first small rep don't need you to feel ready."},
+      {"kind": "cta", "title": "Send this to someone who's [[waiting to feel ready]].", "body": "Run like clockwork."}
+    ],
+    "alt": [
+      "Black card: Motivation clocks out. Discipline doesn't. Discipline is in brass.",
+      "Light card: Feelings are a bad schedule. Motivation comes and goes. A fixed time, a fixed place and a first small rep don't need you to feel ready.",
+      "Black card: Send this to someone who's waiting to feel ready. Run like clockwork."
+    ],
+    "caption": "Discipline over motivation, every time.\n\nMotivation shows up when it feels like it. Discipline shows up on schedule.\n\nYou don't need to feel ready. You need a time, a place, and the first rep.\n\nSend this to someone who keeps waiting for the right mood.\n\nRun like clockwork.\n\n#discipline #selfdiscipline #motivation #selfimprovement #clockworklifestyle"
   },
   {
     "id": "2026-11-06-countdown",
     "date": "2026-11-06",
-    "type": "countdown",
+    "type": "carousel",
     "pillar": "Countdown",
-    "label": "days left in 2026",
-    "line": "Not too late to [[finish]] something.",
-    "alt": "Black card with a large number 55 and the words days left in 2026. Not too late to finish something.",
-    "caption": "55 days left in 2026.\n\nThat's 55 mornings. Roughly 8 weeks of training. Enough time to finish one thing you started this year.\n\nPick it. Put a date on it. Start tomorrow.\n\nRun like clockwork.\n\n#clockworklifestyle #goals #discipline #endoftheyear"
+    "slides": [
+      {"kind": "countdown", "label": "days left in 2026", "line": "Not too late to [[finish]] something."},
+      {"kind": "note", "kicker": "The math", "title": "55 days is a real block of time.", "body": "55 mornings. About 8 weeks of training. Enough to finish one goal you started this year."},
+      {"kind": "cta", "title": "What will you [[finish]] before 2027?", "body": "Put it in the comments. Make it public."}
+    ],
+    "alt": [
+      "Black card with a large number 55: days left in 2026. Not too late to finish something.",
+      "Light card: 55 days is a real block of time. 55 mornings. About 8 weeks of training. Enough to finish one goal you started this year.",
+      "Black card: What will you finish before 2027? Put it in the comments. Make it public."
+    ],
+    "caption": "55 days left in 2026. Goal setting doesn't have to wait for January.\n\nThat's 55 mornings. About 8 weeks of training. Enough time to finish one thing you started this year.\n\nPick it. Put a date on it. Start tomorrow.\n\nWhat's the one goal you'll finish before 2027? Drop it below.\n\nRun like clockwork.\n\n#goalsetting #2026goals #discipline #selfimprovement #clockworklifestyle"
   },
   {
     "id": "2026-11-08-sunday-reset",
@@ -32,27 +47,43 @@
       {"kind": "step", "n": 5, "title": "Clear the deck.", "body": "Laundry, groceries, gym bag. Remove Monday's friction before it starts."},
       {"kind": "close", "title": "Save this for [[Sunday]].", "body": "Run like clockwork."}
     ],
-    "alt": "Seven-slide guide: The Sunday reset. 1 Look back. 2 Pick three. 3 Give each one a time. 4 Set the first move. 5 Clear the deck.",
-    "caption": "The week is decided on Sunday.\n\nFive steps, twenty minutes:\n1. Look back\n2. Pick three outcomes\n3. Give each one a time\n4. Set Monday's first move\n5. Clear the deck\n\nSave this and run it tonight.\n\nRun like clockwork.\n\n#clockworklifestyle #sundayreset #weeklyplanning #productivity #discipline"
+    "alt": [
+      "Cover slide: The Sunday reset. 20 minutes that set the whole week.",
+      "Step 1: Look back. What got done. What didn't. No judgment, just data.",
+      "Step 2: Pick three. Three outcomes for the week. Not ten. Three.",
+      "Step 3: Give each one a time. Put them on the calendar. If it has no time slot, it's a wish.",
+      "Step 4: Set the first move. Decide exactly what Monday's first hour is for, tonight.",
+      "Step 5: Clear the deck. Laundry, groceries, gym bag. Remove Monday's friction before it starts.",
+      "Closing slide: Save this for Sunday. Run like clockwork."
+    ],
+    "caption": "Sunday reset routine: plan your week in 20 minutes.\n\n1. Look back\n2. Pick three outcomes\n3. Give each one a time\n4. Set Monday's first move\n5. Clear the deck\n\nSave this and run it tonight. Send it to the friend who always starts Monday behind.\n\nRun like clockwork.\n\n#sundayreset #weeklyplanning #productivity #routine #clockworklifestyle"
   },
   {
     "id": "2026-11-09-mindset",
     "date": "2026-11-09",
-    "type": "quote",
+    "type": "carousel",
     "pillar": "Mindset",
-    "text": "The plan doesn't care\nhow you feel.\n[[Run it anyway.]]",
-    "alt": "Black card with white text: The plan doesn't care how you feel. Run it anyway. The last line is in brass.",
-    "caption": "Monday doesn't need enthusiasm. It needs execution.\n\nYou already made the plan when you were thinking clearly. Today you just follow it.\n\nRun like clockwork.\n\n#clockworklifestyle #mondaymotivation #discipline #mindset"
+    "slides": [
+      {"kind": "quote", "text": "The plan doesn't care\nhow you feel.\n[[Run it anyway.]]"},
+      {"kind": "note", "kicker": "Monday rule", "title": "You already decided.", "body": "You made the plan when you were thinking clearly. Today isn't for debating it. Today is for running it."},
+      {"kind": "cta", "title": "Send this to your [[Monday]] accountability partner.", "body": "Run like clockwork."}
+    ],
+    "alt": [
+      "Black card: The plan doesn't care how you feel. Run it anyway. The last line is in brass.",
+      "Light card: You already decided. You made the plan when you were thinking clearly. Today isn't for debating it. Today is for running it.",
+      "Black card: Send this to your Monday accountability partner. Run like clockwork."
+    ],
+    "caption": "Monday motivation is optional. The plan isn't.\n\nYou already made the plan when you were thinking clearly. Today you just follow it.\n\nSend this to the person who keeps you accountable.\n\nRun like clockwork.\n\n#mondaymotivation #discipline #mindset #accountability #clockworklifestyle"
   },
   {
-    "id": "2026-11-10-training",
+    "id": "2026-11-10-training-reel",
     "date": "2026-11-10",
-    "type": "quote",
+    "type": "reel",
     "pillar": "Training",
-    "text": "[[Consistency]] is the program.",
-    "sub": "Twelve weeks of showing up beats three weeks of heroics.",
-    "alt": "Black card with white text: Consistency is the program. Twelve weeks of showing up beats three weeks of heroics. Consistency is in brass.",
-    "caption": "The best training plan is the one you're still running in week twelve.\n\nMost people don't fail because the plan was wrong. They fail because they went too hard, burned out, and stopped.\n\nShow up at 70%. Then do it again.\n\nRun like clockwork.\n\n#clockworklifestyle #training #consistency #fitnessmotivation"
+    "lines": ["Show up at 70%.", "Then do it again.", "[[That's the program.]]"],
+    "end": "Run like clockwork.",
+    "alt": ["Animated text on black over a ticking clock: Show up at 70%. Then do it again. That's the program."],
+    "caption": "Training consistency beats intensity.\n\nThe best workout plan is the one you're still running in week twelve. Most people don't quit because the plan was wrong. They go too hard, burn out, and stop.\n\nShow up at 70%. Then do it again.\n\nSend this to your gym partner.\n\nRun like clockwork.\n\n#fitnessmotivation #consistency #workoutroutine #training #clockworklifestyle"
   },
   {
     "id": "2026-11-12-morning-system",
@@ -68,17 +99,32 @@
       {"kind": "step", "n": 5, "title": "One hard thing before noon.", "body": "Do the task you most want to avoid while your focus is fresh."},
       {"kind": "close", "title": "Try it for [[7 days]].", "body": "Save this. Run like clockwork."}
     ],
-    "alt": "Seven-slide guide: Build a morning that runs itself. 1 Fix the wake time. 2 Decide the night before. 3 Move first. 4 Phone last. 5 One hard thing before noon.",
-    "caption": "A good morning isn't a mood. It's a setting.\n\n1. Fix the wake time\n2. Decide the night before\n3. Move first\n4. Phone last\n5. One hard thing before noon\n\nSet it once and stop negotiating with yourself every day.\n\nRun like clockwork.\n\n#clockworklifestyle #morningroutine #habits #discipline #selfimprovement"
+    "alt": [
+      "Cover slide: Build a morning that runs itself. Five settings. Set them once.",
+      "Step 1: Fix the wake time. Same time, seven days a week. Rhythm does what willpower can't.",
+      "Step 2: Decide the night before. Clothes out. First task written down. No decisions at 6 a.m.",
+      "Step 3: Move first. Ten minutes. Walk, run, stretch. Anything that gets you out of your head.",
+      "Step 4: Phone last. The first hour is yours. Messages can wait until it's over.",
+      "Step 5: One hard thing before noon. Do the task you most want to avoid while your focus is fresh.",
+      "Closing slide: Try it for 7 days. Save this. Run like clockwork."
+    ],
+    "caption": "Morning routine for discipline: 5 settings you set once.\n\n1. Fix the wake time\n2. Decide the night before\n3. Move first\n4. Phone last\n5. One hard thing before noon\n\nSet it once and stop negotiating with yourself every day. Save this and try it for 7 days.\n\nRun like clockwork.\n\n#morningroutine #habits #discipline #productivity #clockworklifestyle"
   },
   {
     "id": "2026-11-13-countdown",
     "date": "2026-11-13",
-    "type": "countdown",
+    "type": "carousel",
     "pillar": "Countdown",
-    "label": "days left in 2026",
-    "line": "Don't wait for January.\n[[Start Monday.]]",
-    "alt": "Black card with a large number 48 and the words days left in 2026. Don't wait for January. Start Monday.",
-    "caption": "48 days left in 2026.\n\nJanuary 1st isn't a magic switch. The people who start the year strong started in November.\n\nGive yourself a seven-week head start.\n\nRun like clockwork.\n\n#clockworklifestyle #goals #newyear #discipline"
+    "slides": [
+      {"kind": "countdown", "label": "days left in 2026", "line": "Don't wait for January.\n[[Start Monday.]]"},
+      {"kind": "note", "kicker": "Head start", "title": "January isn't a switch.", "body": "The people who start the year strong started in November. Seven weeks of reps before everyone else begins."},
+      {"kind": "cta", "title": "What are you [[starting Monday]]?", "body": "Say it in the comments. Then do it."}
+    ],
+    "alt": [
+      "Black card with a large number 48: days left in 2026. Don't wait for January. Start Monday.",
+      "Light card: January isn't a switch. The people who start the year strong started in November. Seven weeks of reps before everyone else begins.",
+      "Black card: What are you starting Monday? Say it in the comments. Then do it."
+    ],
+    "caption": "48 days left in 2026. New year goals start now, not January 1st.\n\nThe people who start the year strong started in November. Give yourself a seven-week head start.\n\nWhat are you starting Monday? Comment it below.\n\nRun like clockwork.\n\n#newyeargoals #goalsetting #discipline #selfimprovement #clockworklifestyle"
   }
 ]
