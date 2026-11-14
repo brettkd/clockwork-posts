@@ -126,5 +126,91 @@
       "Black card: What are you starting Monday? Say it in the comments. Then do it."
     ],
     "caption": "48 days left in 2026. New year goals start now, not January 1st.\n\nThe people who start the year strong started in November. Give yourself a seven-week head start.\n\nWhat are you starting Monday? Comment it below.\n\nRun like clockwork.\n\n#newyeargoals #goalsetting #discipline #selfimprovement #clockworklifestyle"
+  },
+  {
+    "id": "2026-11-15-evening-shutdown",
+    "date": "2026-11-15",
+    "type": "carousel",
+    "pillar": "System",
+    "slides": [
+      {"kind": "cover", "title": "The 10-minute shutdown.", "body": "End the day so tomorrow starts itself."},
+      {"kind": "step", "n": 1, "title": "Close the loops.", "body": "Write down every open task still in your head. Paper holds it so you don't have to."},
+      {"kind": "step", "n": 2, "title": "Pick tomorrow's first task.", "body": "One task. Written where you'll see it before anything else."},
+      {"kind": "step", "n": 3, "title": "Check tomorrow's calendar.", "body": "Two minutes now saves a surprise at 9 a.m."},
+      {"kind": "step", "n": 4, "title": "Reset the space.", "body": "Clear the desk. Wash the cup. Leave the room ready for the morning."},
+      {"kind": "step", "n": 5, "title": "Set a hard stop.", "body": "Pick an end time and keep it. Work that runs late steals from tomorrow."},
+      {"kind": "close", "title": "Save this for [[tonight]].", "body": "Run like clockwork."}
+    ],
+    "alt": [
+      "Cover slide: The 10-minute shutdown. End the day so tomorrow starts itself.",
+      "Step 1: Close the loops. Write down every open task still in your head. Paper holds it so you don't have to.",
+      "Step 2: Pick tomorrow's first task. One task. Written where you'll see it before anything else.",
+      "Step 3: Check tomorrow's calendar. Two minutes now saves a surprise at 9 a.m.",
+      "Step 4: Reset the space. Clear the desk. Wash the cup. Leave the room ready for the morning.",
+      "Step 5: Set a hard stop. Pick an end time and keep it. Work that runs late steals from tomorrow.",
+      "Closing slide: Save this for tonight. Run like clockwork."
+    ],
+    "caption": "Evening routine for productivity: a 10-minute shutdown that sets up tomorrow.\n\n1. Close the loops\n2. Pick tomorrow's first task\n3. Check tomorrow's calendar\n4. Reset the space\n5. Set a hard stop\n\nThe morning goes the way the night before ends. Save this and run it tonight. Send it to the friend who's still working at midnight.\n\nRun like clockwork.\n\n#eveningroutine #productivity #habits #routine #clockworklifestyle"
+  },
+  {
+    "id": "2026-11-16-mindset",
+    "date": "2026-11-16",
+    "type": "carousel",
+    "pillar": "Mindset",
+    "slides": [
+      {"kind": "quote", "text": "Small and on time\nbeats big and [[someday]]."},
+      {"kind": "note", "kicker": "The trade", "title": "Someday isn't on any calendar.", "body": "Ten minutes today is real. A perfect hour next month doesn't exist yet. Do the small version now."},
+      {"kind": "cta", "title": "Send this to someone who's starting [[next month]].", "body": "Run like clockwork."}
+    ],
+    "alt": [
+      "Black card: Small and on time beats big and someday. Someday is in brass.",
+      "Light card: Someday isn't on any calendar. Ten minutes today is real. A perfect hour next month doesn't exist yet. Do the small version now.",
+      "Black card: Send this to someone who's starting next month. Run like clockwork."
+    ],
+    "caption": "Building habits? Make them small enough to do on time, every day.\n\nSomeday has no date. Ten minutes today does.\n\nShrink the habit until there's no excuse left. Then run it daily.\n\nSend this to the friend who's always starting next month.\n\nRun like clockwork.\n\n#habits #selfdiscipline #mindset #selfimprovement #clockworklifestyle"
+  },
+  {
+    "id": "2026-11-17-training-reel",
+    "date": "2026-11-17",
+    "type": "reel",
+    "pillar": "Training",
+    "lines": ["Rest day isn't a day off.", "It's on the schedule.", "[[Recovery is training.]]"],
+    "end": "Run like clockwork.",
+    "alt": ["Animated text on black over a ticking clock: Rest day isn't a day off. It's on the schedule. Recovery is training."],
+    "caption": "Recovery is part of fitness discipline, not a break from it.\n\nRest days get planned like training days. Sleep, an easy walk, some mobility. Then come back ready.\n\nThe people who skip rest are the ones who end up taking weeks off.\n\nSend this to the friend who feels guilty on rest days.\n\nRun like clockwork.\n\n#fitnessmotivation #recovery #restday #trainingplan #clockworklifestyle"
+  },
+  {
+    "id": "2026-11-19-mindset",
+    "date": "2026-11-19",
+    "type": "carousel",
+    "pillar": "Mindset",
+    "slides": [
+      {"kind": "quote", "text": "Miss one day, fine.\nMiss two, it's a [[new habit]]."},
+      {"kind": "note", "kicker": "The rule", "title": "Never miss twice.", "body": "One missed day changes nothing. The second one starts a new pattern. Get back on schedule the next day, even if it's small."},
+      {"kind": "cta", "title": "Send this to someone who [[missed yesterday]].", "body": "Run like clockwork."}
+    ],
+    "alt": [
+      "Black card: Miss one day, fine. Miss two, it's a new habit. New habit is in brass.",
+      "Light card: Never miss twice. One missed day changes nothing. The second one starts a new pattern. Get back on schedule the next day, even if it's small.",
+      "Black card: Send this to someone who missed yesterday. Run like clockwork."
+    ],
+    "caption": "Consistency rule for habits: never miss twice.\n\nOne missed workout, one skipped morning routine, one off day. It happens. It means nothing.\n\nTwo in a row is how a new habit starts. The wrong one.\n\nCome back the next day, even at half effort.\n\nSend this to someone who missed yesterday.\n\nRun like clockwork.\n\n#consistency #habits #discipline #selfdiscipline #clockworklifestyle"
+  },
+  {
+    "id": "2026-11-20-countdown",
+    "date": "2026-11-20",
+    "type": "carousel",
+    "pillar": "Countdown",
+    "slides": [
+      {"kind": "countdown", "label": "days left in 2026", "line": "Enough time to build\n[[one habit]] that sticks."},
+      {"kind": "note", "kicker": "Do the math", "title": "41 days is six weeks of reps.", "body": "41 mornings to practice one habit. Not twelve resolutions. One habit, done daily, carried into 2027."},
+      {"kind": "cta", "title": "Which [[one habit]] are you taking into 2027?", "body": "Name it in the comments."}
+    ],
+    "alt": [
+      "Black card with a large number 41: days left in 2026. Enough time to build one habit that sticks.",
+      "Light card: 41 days is six weeks of reps. 41 mornings to practice one habit. Not twelve resolutions. One habit, done daily, carried into 2027.",
+      "Black card: Which one habit are you taking into 2027? Name it in the comments."
+    ],
+    "caption": "41 days left in 2026. Build one habit now and start the new year already running.\n\n41 days is about six weeks of daily reps. Enough to make one habit automatic before January.\n\nNot twelve resolutions. One habit, done every day.\n\nWhich habit are you taking into 2027? Comment it below.\n\nRun like clockwork.\n\n#newyearsresolution #habits #goalsetting #discipline #clockworklifestyle"
   }
 ]
